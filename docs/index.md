@@ -3,8 +3,8 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
+  name: lixiang-Test
+  text: lixiang-Test
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
@@ -22,7 +22,7 @@ hero:
       theme: alt
 features:
   - icon: 📖
-    title:  李响Test 网站
+    title:  lixiang-Test 网站
     details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
     link: https://notes.fe-mm.com/fe/javascript/types
     linkText: 前端常用知识
