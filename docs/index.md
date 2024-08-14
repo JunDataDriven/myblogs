@@ -22,7 +22,7 @@ hero:
       theme: alt
 features:
   - icon: 📖
-    title: 前端物语
+    title:  李响Test 网站
     details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
     link: https://notes.fe-mm.com/fe/javascript/types
     linkText: 前端常用知识
